@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BLEScannerSDK",
-            url: "https://ssl.scandit.com/sdk/download/scandit-blescannersdk-ios-1.1.4.zip",
-            checksum: "6b524f615d6ba17462b27fc08aa9be36787d2446fa0b6dcbed8c1117a6e7e8ff"
+            url: "https://ssl.scandit.com/sdk/download/scandit-blescannersdk-ios-1.1.5.zip",
+            checksum: "e2fc98a6aa5f39143a37c8e01218a46edee49be3a282a4b533989e0d727c6176"
         )
     ]
 )
